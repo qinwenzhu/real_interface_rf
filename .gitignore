@@ -1,0 +1,12 @@
+.idea
+.DS_Store
+output.xml
+__pycache__
+单车/用户端/output.xml
+单车/用户端/端外发卡.robot
+单车/用户端/活动开卡.robot
+单车/用户端/aabotest.robot
+单车/用户端/listener.py
+单车/用户端/__pycache__
+单车/用户端/results/*
+单车/用户端/.DS_Store
